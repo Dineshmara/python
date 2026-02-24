@@ -32,7 +32,7 @@ Looping statements(for,while)
 control statements(break,continue)
 ________________________________________________________________________ 
 
-Functions - type of parameters
+Functions - type of arguments - default,keyword.. 
 -map() and filter()
 
 Exception Handling
@@ -40,3 +40,30 @@ Exception Handling
                          does not stop error but it tells that it is error (Readability)
 
 - logging.info()
+- Loacal Variables and Global Variables (outside the funtion called global
+                                          isdie the function called local variables)
+                                          we can use global variables in local by "Global" keyword
+                                        
+-parameters are the actual names in the funtion defination
+-arguments are the values passed to functions while calling them
+
+-High Order Functions  - giving a function as a parameter 
+ 
+## these are used for modular coding.
+
+-map()
+-filter()
+-reduce()
+-decorators
+-recursion
+-generators
+-sorted classes 
+-logging
+-exception handling
+
+In Python, *args and **kwargs are used in function definitions
+to allow for variable numbers of arguments:
+
+*args allows a function to accept any number of positional arguments as a tuple.
+**kwargs allows a function to accept any number of keyword arguments as a dictionary.
+
