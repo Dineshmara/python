@@ -1,0 +1,42 @@
+Python
+___________________________________________________________________
+- Datatypes
+-int,float,complex,string
+
+~ Sequence types (Data Structures)
+-strings & string methods
+-lists (list Comprehension)
+*uses of numpy 
+-sets (methods) 
+
+-dictionary (methods) 
+
+## (enumerate,lamda,formating)
+_____________________________________________________________________
+
+Operators - Arithemetic (+ _ *  % / // )
+            comparition( <=,>=,==,!=)
+            Logical (||,&&,not)
+            Assignment(+=,-=,*=...)
+            membership(in,not in)
+            identity(is , is not)
+
+Operand + Operator = Operation
+________________________________________________________________________
+
+
+Control Flow statements
+
+Conditional Statements (if,elif,else)
+Looping statements(for,while)
+control statements(break,continue)
+________________________________________________________________________ 
+
+Functions - type of parameters
+-map() and filter()
+
+Exception Handling
+-try except else finally raise - block used to maintainability ,
+                         does not stop error but it tells that it is error (Readability)
+
+- logging.info()
